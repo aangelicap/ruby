@@ -30,7 +30,6 @@ class Pokemon_Abilities
 
 end
 
-
  poke = Pokemon_Abilities.new
  poke.extract_abilities
  poke.show_abilities
